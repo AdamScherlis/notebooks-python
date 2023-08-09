@@ -1,0 +1,6 @@
+private/
+.ipynb_checkpoints/
+
+# large corpora
+urlsf_subset01.tar
+openwebtext/

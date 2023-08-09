@@ -1,0 +1,17 @@
+<svg width="80" height="30">
+<rect x="0" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="0" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="10" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="10" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="20" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="20" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="30" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="30" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="40" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="40" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="50" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="50" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="60" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="60" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="70" y="0" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" />
+<rect x="70" y="15" width="5" height="10" style="fill:rgb(128,128,255);stroke:none" /></svg>
