@@ -4,3 +4,6 @@ private/
 # large corpora
 urlsf_subset01.tar
 openwebtext/
+*Mortimer.pdf
+
+venv/
